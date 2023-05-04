@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Shaopeng (Chris) Lin.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaopenglin)](https://github.com/shaopenglin/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaopenglin&hide_progress=true)](https://github.com/shaopenglin/github-readme-stats)
+
 <!--
 **ShaopengLin/ShaopengLin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
