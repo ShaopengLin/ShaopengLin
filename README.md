@@ -2,7 +2,7 @@
 
 <h3 align="left">Passionate 4th-year Computer Science and Statistics student at the University of Toronto Scarborough, specializing in Software Engineering and Machine Learning. Lead multiple teams through the Agile development process as a Scrum Master. Proficient knowledge of computer science concepts such as object-oriented designs, data structures, and algorithms. Engaged in a multitude of both Linux and Windows projects programmed in C++, Java, Javascript, and Python. Currently interested in Desktop/Mobile application development and improving my backend tech stack. Research interest in Brain-Computer Interface, Compilers, and Opertaing Systems.</h3>
 
-- 🔭 I’m currently working on [Court Scheduler](https://github.com/ShaopengLin/Court_Scheduler)
+- 🔭 I’m currently working on [Court Scheduler](https://github.com/ShaopengLin/Court_Scheduler), [Drive Hive](https://github.com/ShaopengLin/DHive), and [Smart Traffic Control](https://github.com/ShaopengLin/Traffic_Control)
 
 - 🌱 I’m currently learning **Android Studio, Kotlin, Spring, Golang, Rust**
 
