@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shaopeng (Chris) Lin</h1>
 <!--Replace <username> with your own GitHub username.-->
-<img src="https://pixel-profile.vercel.app/api/github-stats?username=ShaopengLin&theme=journey&pixelate_avatar=false" />
 
-<h3 align="left">Passionate 4th-year Computer Science and Statistics student at the University of Toronto Scarborough, specializing in Software Engineering and Machine Learning. Lead multiple teams through the Agile development process as a Scrum Master. Proficient knowledge of computer science concepts such as object-oriented designs, data structures, and algorithms. Engaged in a multitude of both Linux and Windows projects programmed in C++, Java, Javascript, and Python. Currently interested in Desktop/Mobile application development and improving my backend tech stack. Research interest in Brain-Computer Interface, Compilers, and Opertaing Systems.</h3>
+<h3 align="left">Passionate 4th-year Computer Science student at the University of Toronto Scarborough, specializing in Software Engineering. I am intrigued with low-level and hardware-related programming and experienced in C/C++ and Python programming. My current experiences lie in OS, Compilers, and GUI development. As of research interest, I am interested in Compiler Optimizations, Hardware Security, and Brain-Computer Interface.</h3>
 
-- 🔭 I’m currently working on [Court Scheduler](https://github.com/ShaopengLin/Court_Scheduler), [Drive Hive](https://github.com/ShaopengLin/DHive), and [Smart Traffic Control](https://github.com/ShaopengLin/Traffic_Control)
+- 🔭 I’m currently working on [Kiwix-Desktop](https://github.com/kiwix/kiwix-desktop), [Court Scheduler](https://github.com/ShaopengLin/Court_Scheduler), [Drive Hive](https://github.com/ShaopengLin/DHive), and [Smart Traffic Control](https://github.com/ShaopengLin/Traffic_Control)
 
-- 🌱 I’m currently learning **Android Studio, Kotlin, Spring, Golang, Rust**
+- 🌱 I’m currently learning **CUDA, Rust, Android, Kotlin, Flutter**
 
 - 📫 How to reach me **shaopeng.chris.lin@gmail.com**
+
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=ShaopengLin&theme=journey&pixelate_avatar=false" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
