@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shaopeng Lin</h1>
+<h1 align="center">Hi 👋, I'm Shaopeng (Chris) Lin</h1>
 <!--Replace <username> with your own GitHub username.-->
 <img src="https://pixel-profile.vercel.app/api/github-stats?username=ShaopengLin&theme=journey&pixelate_avatar=false" />
 
