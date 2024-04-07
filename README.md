@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shaopeng Lin</h1>
+<!--Replace <username> with your own GitHub username.-->
+https://pixel-profile.vercel.app/api/github-stats?username=ShaopengLin&theme=journey&pixelate_avatar=false
 
 <h3 align="left">Passionate 4th-year Computer Science and Statistics student at the University of Toronto Scarborough, specializing in Software Engineering and Machine Learning. Lead multiple teams through the Agile development process as a Scrum Master. Proficient knowledge of computer science concepts such as object-oriented designs, data structures, and algorithms. Engaged in a multitude of both Linux and Windows projects programmed in C++, Java, Javascript, and Python. Currently interested in Desktop/Mobile application development and improving my backend tech stack. Research interest in Brain-Computer Interface, Compilers, and Opertaing Systems.</h3>
 
