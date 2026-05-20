@@ -5,7 +5,8 @@
 
 - 🌐 Follow my news and reseach at my [Website](https://shaopenglin.github.io/) :) 
 
-- 🔭 I’m currently working on [GPUBreach](https://github.com/sith-lab/gpubreach), [GPUHammer](https://github.com/sith-lab/gpuhammer), [Kiwix-Desktop](https://github.com/kiwix/kiwix-desktop).
+- 🔭 My research codes: [GPUBreach](https://github.com/sith-lab/gpubreach), [GPUHammer](https://github.com/sith-lab/gpuhammer)
+  - I used to work on: [Kiwix-Desktop](https://github.com/kiwix/kiwix-desktop).
 
 - 🌱 I’m currently learning **CUDA, C++, RUST, LLVM/MLIR, PyTorch, ONNX, etc...**
 
