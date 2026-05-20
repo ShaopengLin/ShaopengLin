@@ -3,6 +3,8 @@
 
 <h3 align="left">2nd Year PhD Student in Computer Science at the University of Toronto. My research interests span hardware, memory, and machine learning (ML) security, compiler optimizations, and ML systems and accelerators. Currently, I focus on Rowhammer attacks and defenses, as well as securing ML systems against emerging threat vectors. My earlier work demonstrated the feasibility of Rowhammer attacks on NVIDIA GPUs, which can be exploited to degrade deep learning models. I have also contributed to enhancing Per-Row Activation Counting (PRAC), a state-of-the-art Rowhammer defense. More recently, I’ve been exploring compiler and hardware techniques to attack or protect large language model (LLM) training and inference pipelines, as well as parallel computing systems.</h3>
 
+- 🌐 Follow my news and reseach at my [Website](https://shaopenglin.github.io/) :) 
+
 - 🔭 I’m currently working on [GPUBreach](https://github.com/sith-lab/gpubreach), [GPUHammer](https://github.com/sith-lab/gpuhammer), [Kiwix-Desktop](https://github.com/kiwix/kiwix-desktop).
 
 - 🌱 I’m currently learning **CUDA, C++, RUST, LLVM/MLIR, PyTorch, ONNX, etc...**
