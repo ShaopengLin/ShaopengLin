@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shaopeng (Chris) Lin</h1>
 <!--Replace <username> with your own GitHub username.-->
 
-<h3 align="left">Passionate 4th-year Computer Science student at the University of Toronto Scarborough, specializing in Software Engineering. I am intrigued with low-level and hardware-related programming and experienced in C/C++ and Python programming. My current experiences lie in OS, Compilers, and GUI development. As of research interest, I am interested in Compiler Optimizations, Hardware Security, and Brain-Computer Interface.</h3>
+<h3 align="left">PhD Student in Computer Science student at the University of Toronto. My research interests span hardware, memory, and machine learning (ML) security, compiler optimizations, and ML systems and accelerators. Currently, I focus on Rowhammer attacks and defenses, as well as securing ML systems against emerging threat vectors. My earlier work demonstrated the feasibility of Rowhammer attacks on NVIDIA GPUs, which can be exploited to degrade deep learning models. I have also contributed to enhancing Per-Row Activation Counting (PRAC), a state-of-the-art Rowhammer defense. More recently, I’ve been exploring compiler and hardware techniques to attack or protect large language model (LLM) training and inference pipelines, as well as parallel computing systems.</h3>
 
-- 🔭 I’m currently working on [Kiwix-Desktop](https://github.com/kiwix/kiwix-desktop), [Court Scheduler](https://github.com/ShaopengLin/Court_Scheduler), [Drive Hive](https://github.com/ShaopengLin/DHive), and [Smart Traffic Control](https://github.com/ShaopengLin/Traffic_Control)
+- 🔭 I’m currently working on [GPUBreach](https://github.com/sith-lab/gpubreach), [GPUHammer](https://github.com/sith-lab/gpuhammer), [Kiwix-Desktop](https://github.com/kiwix/kiwix-desktop).
 
-- 🌱 I’m currently learning **CUDA, Rust, Android, Kotlin, Flutter**
+- 🌱 I’m currently learning **CUDA, C++, RUST, LLVM/MLIR, PyTorch, ONNX, etc...**
 
-- 📫 How to reach me **shaopeng.chris.lin@gmail.com**
+- 📫 How to reach me **shaopenglin@cs.toronto.edu**
 
 <img src="https://pixel-profile.vercel.app/api/github-stats?username=ShaopengLin&theme=journey&pixelate_avatar=false" />
 
